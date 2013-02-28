@@ -1,4 +1,3 @@
-pop-that
-========
+# Pop That
 
-remix
+> Coke Ain't a Bad Word
